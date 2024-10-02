@@ -18,5 +18,5 @@ BaselineOfDebuggingChallenges >> baseline: spec [
 			with: [
 				spec repository: 'github://StevenCostiou/AmmoliteMagenta:P12' ];
 			baseline: 'OCDEvalTasks'
-			with: [ spec repository: 'github://Pharo-XP-Tools/OCDEval-Tasks:main' ] ]
+			with: [ spec repository: 'github://Pharo-XP-Tools/OCDEval-Tasks' ] ]
 ]
